@@ -10,3 +10,6 @@ npm run dev
 ![vscode插件](images/vscode-mysql.png)
 #### 2.2、Midway数据库组件
 + 安装orm组件
++ ...各种配置
+
+#### 2.3、数据的增删改查
