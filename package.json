@@ -42,7 +42,8 @@
     "ci": "npm run cov",
     "build": "midway-bin build -c",
     "check": "luckyeye",
-    "save": "git add . && git commit -m \"auto save\" "
+    "save": "git add . && git commit -m \"auto save\" ",
+    "push": "npm run save && git push"
   },
   "midway-bin-clean": [
     ".vscode/.tsbuildinfo",
